@@ -709,7 +709,7 @@ public class SpringBootStarterMybatisApplication {
 	}
 }
 ```
-#### 第十一步：访问Swagger接口地址
+#### 第十二步：访问Swagger接口地址
 ```
 http://127.0.0.1:8080/Demo/api
 ```
